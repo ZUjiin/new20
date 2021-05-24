@@ -1,0 +1,7 @@
+import_url:   
+import_date:  2020-10-20
+distribution: Ubuntu
+release:      20.04
+codename:     focal
+build_arch:   amd64
+build_tag:    4b39ff79-31b8-4035-9053-9bbe5017cde1
